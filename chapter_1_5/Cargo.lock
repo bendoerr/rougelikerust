@@ -142,7 +142,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "chapter_1_4"
+name = "chapter_1_5"
 version = "0.1.0"
 dependencies = [
  "rltk 0.6.2 (registry+https://github.com/rust-lang/crates.io-index)",
